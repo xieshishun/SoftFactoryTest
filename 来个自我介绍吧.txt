@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 ﻿开始:
 我是赵杨
@@ -16,6 +17,12 @@
 张青    
 >>>>>>> c3c3c65b7fde2a1d1efa95d09849558262f76707
 刘豪
+=======
+﻿﻿开始:
+我是赵杨
+邓杨   17岁中单找找队伍 你怕不是有点智障哦
+张青刘豪
+>>>>>>> d4614f6c17539dd3b20bb23f5f1627f677e22adc
 李涛宇
 张龙
 曾凡奇对对对
@@ -30,8 +37,9 @@
 >>>>>>> 6c2cdf8b2fe8f3abcb708e510dfab73a0ac73b70
 =======
 袁剑
-胡志成：在座的各位都是垃圾
+胡志成
 肖安丽
+<<<<<<< HEAD
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <<<<<<< HEAD
 哈哈哈哈哈
@@ -41,3 +49,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 hhhhhhhhhhhhhhh
 >>>>>>> c3c3c65b7fde2a1d1efa95d09849558262f76707
 雷明钦
+=======
+
+>>>>>>> d4614f6c17539dd3b20bb23f5f1627f677e22adc
